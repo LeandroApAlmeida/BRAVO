@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/bravo/gui/dialogs/DefaultTableCellRenderer.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>13</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/bravo/Main.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>23</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Criptografia">
+            <file>file:/D:/2.%20DESENVOLVIMENTO%20DE%20SOFTWARE/BRAVO2/src/Bravo/src/bravo/gui/icons/32x32/file_add.png</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO%20DE%20SOFTWARE/BRAVO2/src/Bravo/src/bravo/gui/dialogs/MainForm.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO%20DE%20SOFTWARE/BRAVO2/src/Bravo/src/bravo/gui/dialogs/PasswordDialog.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO%20DE%20SOFTWARE/BRAVO2/src/Bravo/src/bravo/gui/dialogs/ListCellRenderer1.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO%20DE%20SOFTWARE/BRAVO2/src/Bravo/src/bravo/gui/dialogs/FileChooserDialog.java</file>
+        </group>
+        <group name="CRIPTO">
+            <file>file:/D:/2.%20SOFTWARE/6.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/gui/dialogs/MainForm.java</file>
+            <file>file:/D:/2.%20SOFTWARE/6.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/Main.java</file>
+        </group>
+        <group name="Bravo2">
+            <file>file:/D:/2.%20SOFTWARE/6.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/gui/dialogs/FileChooserDialog.java</file>
+        </group>
+        <group name="CRIPTOGRAFIA"/>
+        <group name="bravo">
+            <file>file:/D:/2.%20SOFTWARE/6.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/gui/dialogs/RenameDialog.java</file>
+            <file>file:/D:/2.%20SOFTWARE/6.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/gui/dialogs/PasswordDialog.java</file>
+            <file>file:/D:/2.%20SOFTWARE/6.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/gui/dialogs/SplashScreen.java</file>
+            <file>file:/D:/2.%20SOFTWARE/6.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/gui/dialogs/ProgressDialog2.java</file>
+            <file>file:/D:/2.%20SOFTWARE/6.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/gui/dialogs/OverrideFilesDialog.java</file>
+            <file>file:/D:/2.%20SOFTWARE/6.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/gui/dialogs/ProgressDialog1.java</file>
+            <file>file:/D:/2.%20SOFTWARE/6.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/Main.java</file>
+        </group>
+        <group>
+            <file>file:/D:/2.%20DESENVOLVIMENTO/5.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/Main.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO/5.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/gui/dialogs/ProgressDialog1.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO/5.%20PROJETOS/BRAVO2/src/Bravo/src/bravo/gui/dialogs/MainForm.java</file>
+        </group>
+        <group name="PG BACKUP">
+            <file>file:/D:/2.%20DESENVOLVIMENTO/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/TreeComboBox.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/DefaultListCellRenderer.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/MainForm.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/OverrideFilesDialog.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/DefaultTableCellRenderer.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/Main.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/FileTransferable.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/TreeCellRenderer.java</file>
+            <file>file:/D:/2.%20DESENVOLVIMENTO/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/Formatter.java</file>
+        </group>
+        <group name="IA">
+            <file>file:/D:/2.%20SOFTWARE/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/AboutDialog.java</file>
+            <file>file:/D:/2.%20SOFTWARE/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/TreeCellRenderer.java</file>
+        </group>
+        <group name="BRAVO">
+            <file>file:/D:/2.%20SOFTWARE/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/MainForm.java</file>
+        </group>
+        <group name="REC VOGAIS">
+            <file>file:/D:/2.%20SOFTWARE/2.%20PROJETOS/BRAVO/src/Bravo/src/bravo/gui/dialogs/MainForm.java</file>
+        </group>
+        <group name="Bravo"/>
+    </open-files>
+</project-private>

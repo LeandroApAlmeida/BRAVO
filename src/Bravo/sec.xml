@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<config>
+	<aes_options>
+		<version>2</version>
+		<key_strength>256</memory>
+	</aes_options>
+	<zip_options>
+		<compression_method>8</compression_method>
+		<compression_level>5</compression_level>
+		<wipening_method>5</wipening_method>
+	</zip_options>
+</config>

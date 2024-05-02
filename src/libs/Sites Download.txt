@@ -1,0 +1,18 @@
+Zip4j:
+
+https://repo1.maven.org/maven2/net/lingala/zip4j/zip4j/
+
+
+Bouncy Castle:
+
+https://www.bouncycastle.org/latest_releases.html
+
+
+JDom:
+
+http://www.jdom.org/downloads/
+
+
+JShortCut:
+
+https://github.com/jimmc/jshortcut/downloads
