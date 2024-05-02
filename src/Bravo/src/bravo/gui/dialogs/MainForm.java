@@ -135,7 +135,7 @@ public class MainForm extends javax.swing.JFrame implements DropTargetListener {
                         
                         randomBytesDialog.setVisible(true);
                         
-                        byte[] randomBytes = randomBytesDialog.getRandomBytesGenerated();
+                        byte[] randomBytes = randomBytesDialog.getGeneratedRandomBytes();
                     
                         char[] password = newFileDialog.getPassword();
 

@@ -92,7 +92,7 @@ public class RandomBytesDialog extends javax.swing.JDialog {
     }
     
     
-    public byte[] getRandomBytesGenerated() {
+    public byte[] getGeneratedRandomBytes() {
         byte[] random = new byte[randomBytes.size()];
         System.arraycopy(random, 0, random, 0, randomBytes.size());
         return random;
