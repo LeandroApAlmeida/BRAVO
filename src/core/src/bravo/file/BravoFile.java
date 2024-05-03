@@ -337,6 +337,12 @@ public final class BravoFile extends ZipFile implements CipherListener {
                 
                 isSamePassword = Arrays.equals(testBytes1, testBytes2);
                 
+                for (int i = 0; i < password.length; i++) {
+                    password[i] = 0x00;
+                }
+
+                password = null;
+                
             }
             
             if (isSamePassword) {

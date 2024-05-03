@@ -27,7 +27,7 @@ final class AESCipher {
     public static final int BLOCK_SIZE = 16;
     
     /**Número de bytes do vetor de inicialização (IV).*/
-    public static final int IV_LENGTH = 16;
+    public static final int IV_LENGTH = BLOCK_SIZE;
     
     /**Tamanho da chave criptográfica.*/
     public static final int KEY_LENGTH = 32;
@@ -47,9 +47,9 @@ final class AESCipher {
      */
     public void encrypt(InputStream istream, OutputStream ostream, 
     EncryptedFileMetadata fileMetadata, byte[] key, CipherListener... listeners) throws Exception {
-        
-        if (key.length == 0) {
-            throw new Exception("Senha não pode estar vazia");
+
+        if (key.length != KEY_LENGTH) {
+            throw new Exception("Tamanho da chave inválido.");
         }
         
         Provider provider = new BouncyCastleProvider();
@@ -108,6 +108,10 @@ final class AESCipher {
      */
     public void decrypt(InputStream istream, OutputStream ostream, 
     EncryptedFileMetadata fileMetadata, byte[] key, CipherListener... listeners) throws Exception {
+        
+        if (key.length != KEY_LENGTH) {
+            throw new Exception("Tamanho da chave inválido.");
+        }
         
         Provider provider = new BouncyCastleProvider();
         
